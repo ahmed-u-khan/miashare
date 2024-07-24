@@ -1,6 +1,6 @@
 # Sample Repo for Miashare
 
-This is based off of a dbt template that I have. To see it in action, please see the [ruggable repo](https://github.com/ahmed-u-khan/ruggable).
+This is based off of a dbt template that I have. To see it in action, please see the [ruggable repo](https://github.com/ahmed-u-khan/ruggable) I created in the past to briefly showcase my dbt skills publicly.
 
 ### Code
 
@@ -10,7 +10,7 @@ Please see the models section of this repo
 
 ![lineage created using dbt docs](https://i.postimg.cc/xjHjpcBZ/dbt-lineage.png)
 
-[Link to Lineage](https://i.postimg.cc/xjHjpcBZ/dbt-lineage.png)
+[Link to Lineage (using example lineage from sample public repo)](https://i.postimg.cc/xjHjpcBZ/dbt-lineage.png)
 
 ## Insights
 
