@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+
+  - name: miashare
+    database: first-project-262802
+    schema: miashare
+    tables:
+      - name: raw_table_name_1
+      - name: raw_table_name_2
+      
